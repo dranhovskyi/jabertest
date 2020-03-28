@@ -1,0 +1,2 @@
+rootProject.name='jabbercheckevents'
+include ':app'
